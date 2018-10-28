@@ -1,0 +1,28 @@
+{
+  "name": "CodrJam3",
+  "version": "1.0.0",
+  "description": "sumofother",
+  "main": "sum.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliaksandrlosich/rsschool-codejam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aliaksandrlosich/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/Aliaksandrlosich/rsschool-codejam#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
